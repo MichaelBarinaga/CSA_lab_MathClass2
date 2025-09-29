@@ -12,7 +12,8 @@ public class MathPractice2 {
     }
 
     // 2. Use Math.min() to return the smaller of two integers.
-    public static int q2(int a, int b) {
+    publ99900ic static int q2(int a, =p[olo[]p;l.0-0pp;l0-0=00[][
+        int b) {
         // TODO: Implement
         return 0;
     }
@@ -25,7 +26,15 @@ public class MathPractice2 {
 
     // 4. Simulate flipping a coin (randomly return "Heads" or "Tails").
     public static String q4() {
-        // TODO: Implement
+        int numerator = (int)Math.random() * 100;
+        int result = numerator % 2;
+
+        if(result == 0)(
+            return "Heads";
+            ]
+        ) else(
+            return "Tails";
+        )
         return "";
     }
 
